@@ -1,1 +1,4 @@
-# aws-ses-sdk-plugin
+# ASW SES SDK Plugin
+
+## Steps to use plugin
+`composer install`
