@@ -1,0 +1,19 @@
+{
+    "name": "imarun/aws-ses-sdk-plugin",
+    "description": "AWS SES SDK WP Plugin",
+    "type": "wordpress-plugin",
+    "require": {
+        "aws/aws-sdk-php": "^3.336"
+    },
+    "autoload": {
+        "psr-4": {
+            "Imarun\\AwsSesSdkPlugin\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arun Sharma",
+            "email": "dextorlobo@gmai.com"
+        }
+    ]
+}
