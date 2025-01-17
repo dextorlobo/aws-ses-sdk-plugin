@@ -1,0 +1,1 @@
+# aws-ses-sdk-plugin
